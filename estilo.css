@@ -1,0 +1,105 @@
+/* 
+    Created on : 27/10/2017, 18:27:51
+    Author     : Matheus
+*/
+
+#externo, #conteudo, #rodape {
+    /* border: solid 1px #000; DEIXAR COM BORDA PRETA*/
+    text-align: left;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+}
+
+#conteudo { 
+    margin: 20px 0;
+}
+
+#externo { 
+    position: relative;
+    margin: 0 auto;
+    width: 1000px;
+    background-color: gray;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#cabecalho { 
+    width: 978px;
+    height: 210px;
+    background-color: #128fa5;
+    color: black;
+    border-radius: 10px;
+}
+
+#menu {
+    margin-left: 280px;
+    width: 450px;
+    height: 45px;
+    padding: 0px;
+    border: none;
+    background-color: none;
+}
+
+#rodape { 
+    width: 978px;
+    height: 30px;
+    clear: both;
+    background-color: #128fa5;
+    border-radius: 10px;
+}
+
+#conteudo {
+    background-color: silver;
+}
+
+#p {
+    padding: 10px
+}
+
+.atext p {
+    float:left;
+    margin-left:10px;
+}
+
+.aimg img {
+    float: left;
+    width: 25%;
+    border: thin solid;
+    padding: 0px;
+    margin: 0px 20px 10px 0;
+}
+
+.aimgd img {
+    float: right;
+    width: 20%;
+    border: thin solid;
+    padding: 0px;
+    margin: -305px 1px 10px 0;
+    border-radius: 10px;
+}
+
+.aimgeu2 img {
+    float: right;
+    width: 25%;
+    border: thin solid;
+    padding: 0px;
+    margin: -43px 20px 10px 15px;
+}
+
+.aimgso img {
+    float: left;
+    width: 20%;
+    border: thin solid;
+    padding: 0px;
+    margin: 0px 20px 10px 0;
+    border-radius: 10px;
+}
+
+.aimgeu3 img {
+    float: left;
+    width: 20%;
+    border: thin solid;
+    padding: 0px;
+    margin: -30px 20px 10px 0;
+}
